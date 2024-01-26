@@ -1,0 +1,2 @@
+IP,NAME,SOCKS,DNS,PPTP SERVER STATUS,L2TP SERVER STATUS,OVPN SERVER STATUS,SSTP SERVER STATUS,Web Proxy,Script
+118.179.157.241, CDIP_Head_Office, no, no, yes, no,enabled: no, no, no,"[('Name=', 'script1', ' Owner=', 'Amber247'), ('Name=', 'script2', ' Owner=', 'Amber247')]"
